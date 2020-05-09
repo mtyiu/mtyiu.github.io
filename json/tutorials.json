@@ -1,0 +1,246 @@
+[
+	{
+		"week" : 6,
+		"date" : "12 February 2015",
+		"theme" : "UI Design",
+		"display" : true,
+		"target" : "Students can start implementing the UI of Assignment 2",
+		"topics" : [
+			{
+				"title" : "Responsive Web Design with Bootstrap 3",
+				"note" : "Please refer to the tutorial notes of Week #7 for the requirements of the layout of Assignment 2.",
+				"outline" : [
+					"Assignment 2 overview – Layout design",
+					"CSS (Cascading Style Sheets)",
+					"Font Awesome",
+					"Responsive web design (RWD)",
+					"CSS media queries",
+					"Bootstrap 3",
+					"Setting up the development environment for Node.js and Express"
+				],
+				"downloads" : [
+					{ "type" : "pdf", "name" : "Download Notes", "link" : "tutorials/5/bootstrap.pdf" },
+					{ "type" : "zip", "name" : "Example Code", "link" : "tutorials/5/example_code.zip" },
+					{ "type" : "github", "name" : "Example Code", "link" : "https://github.com/mtyiu/csci4140-spring15/tree/gh-pages/tutorials/5/example_code" },
+					{ "type" : "demo", "name" : "Demo Pages", "link" : "#tut5-demo" }
+				],
+				"tags" : [ "layout", "css", "font awesome", "responsive web design", "media queries", "bootstrap" ],
+				"recommendation" : { "CSS Diner" : "http://flukeout.github.io/" }
+			},
+			{
+				"title" : "Installing Node.js and Express on Windows",
+				"downloads" : [
+					{ "type" : "pdf", "name" : "Download Notes", "link" : "tutorials/5/install-nodejs-on-windows.pdf" },
+					{ "type" : "file", "name" : "hello.js", "link" : "tutorials/5/example_code/hello.js" },
+					{ "type" : "github", "name" : "hello.js", "link" : "https://github.com/mtyiu/csci4140-spring15/tree/gh-pages/tutorials/5/example_code/hello.js" }
+				]
+			},
+			{
+				"title" : "Installing Node.js and Express on Linux or Mac",
+				"note" : "[20 February] Page 21 updated.",
+				"downloads" : [
+					{ "type" : "pdf", "name" : "Download Notes", "link" : "tutorials/5/install-nodejs-on-linux-mac.pdf" },
+					{ "type" : "file", "name" : "hello.js", "link" : "tutorials/5/example_code/hello.js" },
+					{ "type" : "github", "name" : "hello.js", "link" : "https://github.com/mtyiu/csci4140-spring15/tree/gh-pages/tutorials/5/example_code/hello.js" }
+				],
+				"lastModified" : "20 February"
+			}
+		]
+	},
+	{
+		"week" : 7,
+		"date" : "26 February 2015",
+		"theme" : "Assignment 2 Overview (Client Side) & Front-end Development",
+		"display" : true,
+		"target" : "Students can start implementing the player and control logic of Assignment 2 (locally)",
+		"topics" : [
+			{
+				"title" : "Assignment 2 Overview (Client Side) & Hints on Front-end Development",
+				"outline" : [
+					"Demonstration",
+					"Client side: Layout design, QR code display, Playlist management & YouTube player control"
+				],
+				"downloads" : [
+					{ "type" : "pdf", "name" : "Download Notes", "link" : "tutorials/6/asgn2-overview-client.pdf" },
+					{ "type" : "zip", "name" : "Example Code", "link" : "tutorials/6/example_code.zip" },
+					{ "type" : "html", "name" : "Demo Page", "link" : "tutorials/6/example_code/qr_code/qr_code.html" },
+					{ "type" : "download", "name" : "Screenshot", "link" : "#tut6-screenshot" },
+					{ "type" : "youtube", "name" : "Assignment 2 Demo (Cantonese)", "link" : "http://youtu.be/_C6rnalqMIM" },
+					{ "type" : "youtube", "name" : "Assignment 2 Demo (English)", "link" : "http://youtu.be/MXoByOGBszY" }
+				],
+				"tags" : [ "QR code", "DOM scripting", "localStorage", "HTML5", "client" ],
+				"recommendation" : { "A Hilarious Collection of CSS Puns & Jokes" : "http://9gag.com/gag/azEj9jK" },
+				"lastModified" : "24 February"
+			},
+			{
+				"title" : "YouTube IFrame Player API",
+				"outline" : [
+					"Overview",
+					"Requirements",
+					"Getting started",
+					"Operations: Play, Pause, Stop, Mute, Unmute, Fast Forward, Rewind, Next Video, Previous Video",
+					"The onStateChange event",
+					"Destroying the player",
+					"Reference"
+				],
+				"downloads" : [
+					{ "type" : "pdf", "name" : "Download Notes", "link" : "tutorials/6/youtube-iframe-api.pdf" },
+					{ "type" : "github", "name" : "Example Code", "link" : "https://github.com/mtyiu/csci4140-spring15/tree/gh-pages/tutorials/6/example_code/youtube-iframe-api" },
+					{ "type" : "html", "name" : "Demo Page", "link" : "tutorials/6/example_code/youtube-iframe-api/index.html" }
+				],
+				"lastModified" : "24 February"
+			}
+		]
+	},
+	{
+		"week" : 8,
+		"date" : "5 March 2015",
+		"theme" : "Assignment 2 Overview (Server Side) & Back-end Development",
+		"target" : "Students can start implementing the back-end of Assignment 2",
+		"display" : true,
+		"topics" : [
+			{
+				"title" : "Assignment 2 Overview (Server Side)",
+				"outline" : [
+					"Work flow",
+					"Server side: Routing, Message forwarding, Retrieving video title"
+				],
+				"downloads" : [
+					{ "type" : "pdf", "name" : "Download Notes", "link" : "tutorials/7/asgn2-overview-server.pdf" }
+				],
+				"tags" : [ "server", "work flow", "routing", "message forwarding" ],
+				"lastModified" : "24 February"
+			},
+			{
+				"title" : "Learning the Basics of Node.js",
+				"note" : "Page 17 updated.",
+				"outline" : [
+					"What is Node.js?",
+					"Learning the basics of Node.js: Non-blocking I/O, HTTP"
+				],
+				"downloads" : [
+					{ "type" : "pdf", "name" : "Download Notes (wo/ Solution)", "link" : "tutorials/7/nodejs-wo-soln.pdf" },
+					{ "type" : "pdf", "name" : "Download Notes (w/ Solution)", "link" : "tutorials/7/nodejs.pdf" },
+					{ "type" : "zip", "name" : "Example Code", "link" : "tutorials/7/example_code.zip" },
+					{ "type" : "github", "name" : "Example Code", "link" : "https://github.com/mtyiu/csci4140-spring15/tree/gh-pages/tutorials/7/example_code/nodejs" }
+				],
+				"tags" : [ "events", "asynchronous I/O", "callback", "module", "npm", "closure" ],
+				"recommendation" : { "nodeschool.io" : "http://nodeschool.io/", "Are all JavaScript callbacks asynchronous?" : "http://stackoverflow.com/questions/19083357/are-all-javascript-callbacks-asynchronous-if-not-how-do-i-know-which-are", "Control flow in Node.js" : "http://book.mixu.net/node/ch7.html" },
+				"lastModified" : "6 March"
+			}
+		]
+	},
+	{
+		"week" : 9,
+		"date" : "12 March 2015",
+		"theme" : "Back-end Development (Continued)",
+		"display" : true,
+		"target" : "Students should complete Assignment 2 after this tutorial",
+		"topics" : [
+			{
+				"title" : "Learning the Basics of Node.js",
+				"note" : "Continued...Please find the download link in Week #8."
+			},
+			{
+				"title" : "Express Web Framework",
+				"downloads" : [
+					{ "type" : "pdf", "name" : "Download Notes", "link" : "tutorials/8/express.pdf" },
+					{ "type" : "zip", "name" : "Example Code", "link" : "tutorials/8/example_code.zip" },
+					{ "type" : "github", "name" : "Example Code", "link" : "https://github.com/mtyiu/csci4140-spring15/tree/gh-pages/tutorials/8/example_code/express" }
+				],
+				"lastModified" : "24 February"
+			},
+			{
+				"title" : "WebSocket and Socket.IO",
+				"downloads" : [
+					{ "type" : "pdf", "name" : "Download Notes", "link" : "tutorials/8/websocket-socket-io.pdf" },
+					{ "type" : "github", "name" : "Example Code", "link" : "https://github.com/mtyiu/csci4140-spring15/tree/gh-pages/tutorials/8/example_code/socket-io-chat" }
+				],
+				"note" : "Updated pp. 7, 8; added p. 14.",
+				"recommendations" : [ 
+					{ "name" : "N-Mario", "href" : "https://cherrry.github.io/N-Mario" },
+					{ "name" : "GitHub (Client Side)", "href" : "https://github.com/cuhk-csci4140/N-Mario" },
+					{ "name" : "GitHub (Server Side)", "href" : "https://github.com/cuhk-csci4140/Node-Mario" },
+					{ "name" : "Video", "href" : "https://www.youtube.com/watch?v=cPkCh6Z9aQ4" }
+				],
+				"lastModified" : "17 March"
+			},
+			{
+				"title" : "Deploying Node.js Applications on OpenShift",
+				"downloads" : [
+					{ "type" : "pdf", "name" : "Download Notes", "link" : "tutorials/8/deploy-nodejs-openshift.pdf" },
+					{ "type" : "github", "name" : "Example Code", "link" : "https://github.com/mtyiu/csci4140-spring15/tree/gh-pages/tutorials/8/example_code/openshift" }
+				],
+				"note" : "Added p. 15.",
+				"lastModified" : "17 March"
+			}
+		]
+	},
+	{
+		"week" : 10,
+		"date" : "19 March 2015",
+		"theme" : "More about Assignment 2",
+		"display" : true,
+		"target" : "Deadline of Assignment 2: 23:59, 2015 March 29 (Sun)",
+		"topics" : [
+			{
+				"title" : "Express Web Framework",
+				"note" : "Continued...Please find the download link in Week #9."
+			},
+			{
+				"title" : "Remote debugging on Android or iOS devices",
+				"downloads" : [ { "type" : "pdf", "name" : "Download Notes", "link" : "tutorials/9/remote-debugging-android-ios.pdf" } ],
+				"outline" : [
+					"Why remote debugging?",
+					"Requirements",
+					"Remote debugging on Android",
+					"Remote debugging on iOS"
+				],
+				"tags" : [ "iOS", "Android", "Safari", "Chrome", "Firefox", "USB debugging" ],
+				"lastModified" : "9 March"
+			},
+			{
+				"title" : "Debugging WebSocket in Chrome or Firefox",
+				"downloads" : [ { "type" : "link", "name" : "View Notes (HTML)", "link" : "tutorials/9/ws-debug/" } ]
+			},
+			{
+				"title" : "Assignment 2 Final Checklist",
+				"downloads" : [ { "type" : "link", "name" : "View Notes (HTML)", "link" : "tutorials/9/checklist.html" } ],
+				"note" : "Read this page carefully before you submit your assignment!"
+			},
+			{
+				"title" : "Submission Guideline",
+				"downloads" : [ { "type" : "link", "name" : "View Notes (HTML)", "link" : "http://appsrv.cse.cuhk.edu.hk/~csci4140/course-homepage-4140/submission.php" } ]
+			}
+		]
+	},
+	{
+		"week" : "11-13",
+		"date" : "26 March & 2, 9 April 2015",
+		"theme" : "Assignment 3",
+		"display" : false,
+		"target" : "Please go to <a href=\"http://appsrv.cse.cuhk.edu.hk/~csci4140/course-homepage-4140/tutorial.php\">the course homepage</a> for the tutorial notes.",
+		"topics" : []
+	},
+	{
+		"week" : 14,
+		"date" : "16 April 2015",
+		"theme" : "Bonus materials",
+		"display" : true,
+		"target" : "The matrials are optional and may be useful for your projects :-)",
+		"topics" : [
+			{
+				"title" : "Symfony: PHP framework for web projects",
+				"note" : "During the tutorial, I will select some of the important topics in Symfony and go through the development process with you. You are assumed to have a good background of PHP.",
+				"downloads" : [
+					{ "type" : "pdf", "name" : "Download Notes", "link" : "tutorials/13/symfony.pdf" },
+					{ "type" : "html", "name" : "Guide of Developing A Guest book", "link" : "tutorials/13/guestbook.html" },
+					{ "type" : "zip", "name" : "Example Code", "link" : "tutorials/13/example_code.zip" },
+					{ "type" : "github", "name" : "Example Code", "link" : "https://github.com/mtyiu/symfony-demo-guestbook" },
+					{ "type" : "link", "name" : "The Symfony Book (HTML)", "link" : "http://symfony.com/doc/current/book/index.html" },
+					{ "type" : "link", "name" : "The Symfony Cookbook (HTML)", "link" : "http://symfony.com/doc/current/cookbook/index.html" }
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,21 @@
+[
+	{ "date" : "Apr 14", "content" : "The tutorial notes on Symfony are ready. See you this Thursday!" },
+	{ "date" : "Apr 5", "content" : "See you again on April 16!" },
+	{ "date" : "Mar 17", "content" : "If you encounter WebSocket connection problems in OpenShift, it means that you did not specify the full URL in your client page (and this is my fault...I forget to include it in the slides). Please follow the instructions <a href=\"tutorials/8/ws-openshift.png\" target=\"_blank\">here</a> to modify the JavaScript code of your HTML page. <br />Two set of slides in Week #9 are updated accordingly: <ul><li>\"WebSocket and Socket.IO\": Updated pp. 7, 8; added p. 14.</li><li>\"Deploying Node.js Applications on OpenShift\": Added p. 15.</li></ul> The example code is also updated. Sorry for any inconvenience caused." },
+	{ "date" : "Mar 16", "content" : "Updated materials for our final tutorial on Assignment 2 :)" },
+	{ "date" : "Mar 13", "content" : "Uploaded tutorial video recording for Week #9." },
+	{ "date" : "Mar 9", "content" : "Updated schedule, updated tutorial notes for Week #9: \"Deploying Node.js Applications on OpenShift\" and uploaded new tutorial notes for Week #10: \"Remote debugging on Android or iOS devices\"." },
+	{ "date" : "Mar 6", "content" : "I made a mistake on the slides: \"Learning the basics of Node.js\", page 17. Please download the slides again." },
+	{ "date" : "Mar 5", "content" : "Updated today's recommendation." },
+	{ "date" : "Feb 26", "content" : "The recording of Assignment 2 Demonstration in today's tutorial are uploaded." },
+	{ "date" : "Feb 24", "content" : "Updated tutorial notes for Week #7-9 (and hopefully they are finalized). Most of the modifications are to fix typos or unclear statements. For those pages involving key changes, they are indicated on the top right hand corner. Anyway, please download all the slides again." },
+	{ "date" : "Feb 23", "content" : "Updated tutorial notes and example code for Week #9." },
+	{ "date" : "Feb 22", "content" : "Updated pseudocode on tutorial notes for Week #7: \"YouTube IFrame Player API\"." },
+	{ "date" : "Feb 21", "content" : "Uploaded tutorial notes for Week #8: \"Learning the Basics of Node.js\" and Week #9: \"WebSocket and Socket.IO\"" },
+	{ "date" : "Feb 20", "content" : "Uploaded tutorial notes for Week #8: \"Assignment 2 Overview (Server Side)\" & Week #9: \"Deploying Node.js Applications on OpenShift\"." },
+	{ "date" : "Feb 20", "content" : "Fixed typo in \"Installing Node.js and Express on Linux or Mac\" (Week #6)." },
+	{ "date" : "Feb 19", "content" : "Uploaded tutorial notes for Week #7." },
+	{ "date" : "Feb 10", "content" : "Added this week's recommendation." },
+	{ "date" : "Feb 4", "content" : "Uploaded tutorial notes for Week #6." },
+	{ "date" : "Jan 29", "content" : "Created page." }
+]

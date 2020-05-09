@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-openshift",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main" : "server.js",
+  "dependencies": {
+    "express": "~4.10.6"
+  }
+}
